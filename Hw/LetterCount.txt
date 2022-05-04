@@ -1,0 +1,28 @@
+Input File Name: LetterCount.java
+
+A: 53
+B: 11
+C: 51
+D: 18
+E: 143
+F: 39
+G: 16
+H: 32
+I: 126
+J: 3
+K: 5
+L: 84
+M: 28
+N: 101
+O: 71
+P: 42
+Q: 1
+R: 88
+S: 63
+T: 160
+U: 50
+V: 10
+W: 26
+X: 9
+Y: 10
+Z: 1
